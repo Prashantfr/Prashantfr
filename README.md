@@ -6,7 +6,7 @@
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
@@ -19,9 +19,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🛠️ Tools & Version Control
+### 🛠️ Tools, Cloud & Version Control
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
 </p>
 
 ---

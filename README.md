@@ -1,27 +1,45 @@
-### Hi there 👋, I'm Prashant!
+# Hi there 👋, I'm Prashant Tiwari!
 
-🌟 Aspiring MERN Stack Developer & Computer Science Student
+**Full-Stack Development Enthusiast | MERN Stack | DSA in Java**
 
-<br>
+I'm a Computer Science Engineering student interested in full-stack development, backend engineering, and problem-solving.
 
-### 💻 Frontend
+Currently focused on building practical web applications, strengthening my backend development skills, and practicing Data Structures & Algorithms in Java.
+
+## Tech Stack
+
+### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts" alt="Java, JavaScript, TypeScript" />
 </p>
 
-### ⚙️ Backend
+### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" alt="Frontend technologies" />
 </p>
 
-### 🗄️ Database
+### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js" />
 </p>
 
-### 🛠️ Tools, Cloud & Version Control
+### Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</p>
+
+**ODM:** Mongoose
+
+### Developer Tools & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,vercel" alt="Development tools and deployment platforms" />
 </p>
 
 ---
+
+## Currently Working On
+
+- Building full-stack applications using the MERN stack.
+- Practicing Data Structures & Algorithms in Java.
+- Improving backend development and REST API design.
+- Exploring modern development tools and technologies.
